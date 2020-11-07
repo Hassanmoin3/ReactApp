@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ReactApp/static/css/main.6a399238.chunk.css",
+    "main.js": "/ReactApp/static/js/main.74aaa7af.chunk.js",
+    "main.js.map": "/ReactApp/static/js/main.74aaa7af.chunk.js.map",
+    "runtime-main.js": "/ReactApp/static/js/runtime-main.17684d45.js",
+    "runtime-main.js.map": "/ReactApp/static/js/runtime-main.17684d45.js.map",
+    "static/css/2.07725c36.chunk.css": "/ReactApp/static/css/2.07725c36.chunk.css",
+    "static/js/2.26e03273.chunk.js": "/ReactApp/static/js/2.26e03273.chunk.js",
+    "static/js/2.26e03273.chunk.js.map": "/ReactApp/static/js/2.26e03273.chunk.js.map",
+    "index.html": "/ReactApp/index.html",
+    "static/css/2.07725c36.chunk.css.map": "/ReactApp/static/css/2.07725c36.chunk.css.map",
+    "static/css/main.6a399238.chunk.css.map": "/ReactApp/static/css/main.6a399238.chunk.css.map",
+    "static/js/2.26e03273.chunk.js.LICENSE.txt": "/ReactApp/static/js/2.26e03273.chunk.js.LICENSE.txt",
+    "static/media/Preventive.ddb41bd1.jpg": "/ReactApp/static/media/Preventive.ddb41bd1.jpg",
+    "static/media/Repairingservice.56554c02.jpg": "/ReactApp/static/media/Repairingservice.56554c02.jpg",
+    "static/media/annual.830e0ad0.jpg": "/ReactApp/static/media/annual.830e0ad0.jpg",
+    "static/media/img1.03a9ebd0.jpg": "/ReactApp/static/media/img1.03a9ebd0.jpg",
+    "static/media/installationservice.f192582b.jpg": "/ReactApp/static/media/installationservice.f192582b.jpg",
+    "static/media/preinstallation.2abe51f6.jpg": "/ReactApp/static/media/preinstallation.2abe51f6.jpg",
+    "static/media/systemdesigning.1fb20595.jpg": "/ReactApp/static/media/systemdesigning.1fb20595.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17684d45.js",
+    "static/css/2.07725c36.chunk.css",
+    "static/js/2.26e03273.chunk.js",
+    "static/css/main.6a399238.chunk.css",
+    "static/js/main.74aaa7af.chunk.js"
+  ]
+}
